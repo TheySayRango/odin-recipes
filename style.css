@@ -1,8 +1,10 @@
+.od-h1, .od-ul{
+    color: black;
+}
 .od-h1{
-    color: blue;
     background-color: blueviolet;
 }
 .od-ul{
-    color: blue;
+    
     background-color: lightseagreen;
 }
